@@ -67,7 +67,7 @@ p{
 }
 @media (max-width: 768px) {
   .page {
-    height: 300px;
+    height: auto;
     border-width: 4px;
   }
 
