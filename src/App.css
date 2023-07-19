@@ -78,19 +78,21 @@ p{
   .items,
   button {
     margin: 8px;
-    padding: 2px 16px;
+    padding: 8px;
     font-size: 16px;
     line-height: 24px;
+   
   }
+
   li:hover{
 
     border: white 1px solid;
-    border-radius: 12px;
+    border-radius: 24px;
   
   }
   .active{
     border: white 1px solid;
-    border-radius: 12px;
+    border-radius: 24px;
     background: white;
     color:#88a4b4;
   }
