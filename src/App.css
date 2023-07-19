@@ -65,3 +65,29 @@ p{
 
   font-size: 36px;
 }
+@media (max-width: 768px) {
+  .page {
+    height: auto;
+    border-width: 4px;
+  }
+
+  ul {
+    justify-content: center;
+  }
+
+  .items,
+  button {
+    margin: 8px;
+    padding: 2px 16px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 24px;
+  }
+}
