@@ -82,6 +82,18 @@ p{
     font-size: 16px;
     line-height: 24px;
   }
+  li:hover{
+
+    border: white 1px solid;
+    border-radius: 12px;
+  
+  }
+  .active{
+    border: white 1px solid;
+    border-radius: 12px;
+    background: white;
+    color:#88a4b4;
+  }
 
   h1 {
     font-size: 36px;
